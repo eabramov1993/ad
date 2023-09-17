@@ -1,5 +1,5 @@
 new Swiper('.slider', {
-	direction: 'vertical',
+	// direction: 'vertical',
 	freeMode: true,
 	speed: 2400,
 	parallax: true,
